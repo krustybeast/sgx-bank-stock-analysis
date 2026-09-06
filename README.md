@@ -17,7 +17,7 @@ comparison, similar in spirit to sector-focused portfolio analysis projects.
 
 ## Price Trends
 
-![Closing price trends](images/price_trends.png)
+![Closing price trends](price_trends.png)
 
 All three banks trended upward from 2023 to 2026, but DBS pulled significantly
 ahead of OCBC and UOB, particularly from 2025 onward. All three show a sharp,
@@ -26,7 +26,7 @@ global market volatility.
 
 ## Returns & Risk
 
-![Daily returns](images/daily_returns.png)
+![Daily returns](daily_returns.png)
 
 | Stock | Mean Daily Return | Std Dev (Volatility) | Risk-Adjusted Return (Mean/Std) |
 |---|---|---|---|
@@ -41,11 +41,11 @@ global market volatility.
   return, with less than half OCBC's risk-adjusted return despite carrying
   similar volatility.
 
-![Risk vs Return scatter plot](images/risk_return.png)
+![Risk vs Return scatter plot](risk_return.png)
 
 ## Correlation & Diversification
 
-![Correlation heatmap](images/correlation_heatmap.png)
+![Correlation heatmap](correlation_heatmap.png)
 
 | | DBS | OCBC | UOB |
 |---|---|---|---|
