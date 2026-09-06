@@ -61,7 +61,7 @@ diversification benefit if held alongside DBS or OCBC in a portfolio.
 
 ## Monte Carlo Simulation (1-Year Ahead)
 
-![Monte Carlo simulation - DBS](images/monte_carlo_dbs.png)
+![Monte Carlo simulation - DBS](monte_carlo_dbs.png)
 
 Using Geometric Brownian Motion with 1,000 simulated paths over 252 trading
 days (one trading year), based on each stock's historical drift and volatility:
